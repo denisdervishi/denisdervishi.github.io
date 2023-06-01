@@ -44,7 +44,7 @@ h1, h2, h3, h4, h5, h6 {
   bottom: 0;
   z-index: 9999;
   overflow: hidden;
-  background: #c2243b;
+  background: #b22222;
 }
 
 #preloader:before {
@@ -52,7 +52,7 @@ h1, h2, h3, h4, h5, h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #c2243b;
+  border: 6px solid #b22222;
   border-top-color: #1a1814;
   border-bottom-color: #1a1814;
   border-radius: 50%;
@@ -458,7 +458,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero h1 span {
-  color: #c2243b;
+  color: #b22222;
 }
 
 #hero h2 {
